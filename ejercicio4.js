@@ -8,6 +8,6 @@ function clasificarEdad(edad) {
     }
 }
 
-clasificarEdad(18);
 clasificarEdad(17);
+clasificarEdad(16);
 clasificarEdad(65);
